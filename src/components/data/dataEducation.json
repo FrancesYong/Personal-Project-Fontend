@@ -1,0 +1,30 @@
+[
+    {
+        "tingkat": "Bachelor Degree",
+        "waktu": "2020 - Now",
+        "sekolah": "Universitas Klabat",
+        "jurusan": "Bachelor of Computer System",
+        "deskripsi": "Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui"
+    },
+    {
+        "tingkat": "High School",
+        "waktu": "2015 - 2018",
+        "sekolah": "SMK PRISMA PIONEER MANADO",
+        "jurusan": "Computer and Metwork Engineering Major",
+        "deskripsi": "Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui"
+    },
+    {
+        "tingkat": "Junior High School",
+        "waktu": "2012 - 2015",
+        "sekolah": "SMP Advent Tanawangko",
+        "jurusan": "",
+        "deskripsi": "Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui"
+    },
+    {
+        "tingkat": "Elementary School",
+        "waktu": "2006 - 2012",
+        "sekolah": "SD Advent Tanawangko",
+        "jurusan": "",
+        "deskripsi": "Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui"
+    }
+]
